@@ -7,6 +7,7 @@ import loadPosts from '../../utils/load-posts';
 import Posts from '../../components/Posts';
 import Button from '../../components/Button';
 import TextInput from '../../components/TextInput';
+import { useCallback, useEffect, useState } from 'react';
 
 class Home extends Component {
   state = {
