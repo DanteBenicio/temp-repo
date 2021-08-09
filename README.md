@@ -1,4 +1,4 @@
-<img src="./images/sistema-de-buscamd.png">
+<img width="600" src="./images/sistema-de-buscamd.png">
 
 # Getting Started with Create React App
 
