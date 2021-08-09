@@ -13,4 +13,9 @@ const TextInput = ({ handleChange, searchValue }) => {
   )
 }
 
+TextInput.propTypes = {
+  handleChange: P.func.isRequired,
+  searchValue: P.string.isRequired,
+}
+
 export default TextInput;
