@@ -14,4 +14,8 @@ const PostCard = ({ post }) => (
     </div>
 )
 
+PostCard.propTypes = {
+  post: P.object.isRequired,
+}
+
 export default PostCard;
