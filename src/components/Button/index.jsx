@@ -12,4 +12,13 @@ const Button = ({ loadMorePosts, disabled }) => (
   </button>
 ) 
 
+Button.defaultProps = {
+  disabled: false,
+}
+
+Button.propTypes = {
+  loadMorePosts: P.func.isRequired,
+  disabled: P.bool,
+}
+
 export default Button;
