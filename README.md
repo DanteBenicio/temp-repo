@@ -1,4 +1,4 @@
-<img width="600" src="./images/sistema-de-buscamd.png">
+![Sistema de buscas1](https://user-images.githubusercontent.com/72478098/128788722-5a5b4ac4-b693-4577-9297-ad7117191d15.png)
 
 # Getting Started with Create React App
 
